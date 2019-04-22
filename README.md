@@ -1,2 +1,2 @@
 # sixtasks
-SixTasks methodology to-do list app
+A simple methodology to get stuff done. The short how-to version will be posted shortly. 
