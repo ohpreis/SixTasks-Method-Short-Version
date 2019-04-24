@@ -6,7 +6,7 @@ The premise of this method is to commit yourself to get six of the most importan
 > <cite>**Margaret Thatcher**</cite>
 
 **Here is what you need, and how it works!**
-* **Lists** – You start by creating three task lists in your favorite To-Do app or if you prefer a notepad will work just fine. I named my lists “Master List,” “Ideas” and “Today”. App Options: A few to-do apps that work fantastically with the SixTask method, Todoist, iPhone's Reminder app, Microsofts Todo and my favorite Trello.
+* **Lists** – You start by creating three task lists in your favorite To-Do app or if you prefer a notepad will work just fine. I named my lists “Master List,” “Ideas” and “Today”. App Options: A few to-do apps that work fantastically with the SixTask method, [Todoist](https://todois.com), [iPhone's Reminder app](https://support.apple.com/en-us/HT205890), [Microsofts Todo](https://todo.microsoft.com) and my favorite [Trello](https://trello.com).
 
 ![Trello](images/Screen-Shot-2019-01-31-at-10.19.58-AM.png)
 
